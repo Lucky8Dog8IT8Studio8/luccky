@@ -1,0 +1,45 @@
+body{
+  background-color: #2b2b2b;
+}
+
+.container{
+  width: 100%;
+  padding-right: 22px;
+  padding-left: 22px;
+}
+
+.greeting{
+  color: #fcb03b;
+  font-family: 'Arsenal';
+  font-size: 110px;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 35px;
+}
+
+#lapa{
+  width: 100%;
+}
+
+.clearfix{
+  clear: both;
+}
+
+#dog-btn{
+  margin: 77px 0 20px;
+}
+
+.dog-style{
+  text-align: center;
+}
+
+.dog-btn{
+  background-color: #fcb03b;
+  border: none;
+  border-radius: 50%;
+  width: 124px;
+  height: 124px;
+  cursor: pointer;
+  margin-right: 47px;
+  float: right;
+}
